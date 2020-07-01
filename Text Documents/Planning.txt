@@ -1,0 +1,10 @@
+Tic Tac Toe Machine Learning Project
+
+General Rules of Tic Tac Toe will apply.
+
+Neural Network:
+27 inputs (9 possible moves * 3 possible states (empty, X, and O))
+9 outputs (9 possible moves)
+I will not be having any hidden layers for this project, but I do intend to do so for the next one
+
+When first generating the network, each neuron weight will be randomly generated from -1 to 1
